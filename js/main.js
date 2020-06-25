@@ -22,12 +22,12 @@ $(document).ready(function () {
         for (var i = 0; i < json.sections.length; i++) {
            // $('#projects').append(banner(json.sections[i].name, json.sections[i].banners));
            $('#projects').append(
-                '<div class="row mb-4">' +
+                '<div class="row mb-4 mt-4">' +
                     '<div class="col-sm-2">' +
                         '<h1>' + json.sections[i].name + '</h1>' +
                     '</div>' +
                 '</div>'+
-                '<div id="'+i+'" class="row">'
+                '<div id="'+i+'" class="row justify-content-center">'
            );
            for (var y = 0; y < json.sections[i].banners.length; y++){
                 $('#'+i).append(
