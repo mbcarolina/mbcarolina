@@ -6,9 +6,11 @@
   max-width: 80%;
 }
 
-.sidenav h5, .sidenav p {
+.sidenav h5,
+.sidenav p {
   font-size: 1rem;
 }
+
 .sidenav {
   height: 100%;
   width: 20%;
@@ -32,7 +34,7 @@
 }
 
 .sidenav h1 {
-  font-size: 30px;
+  font-size: 2rem;
 }
 
 .shadow {
@@ -89,8 +91,8 @@ i {
   box-shadow: 0 8px 6px -6px black;
   transition: 1s;
   background-color: #ebb48e;
-  margin-right: 7px;
-  margin-bottom: 10px;
+  margin-right: 30px;
+  margin-bottom: 60px;
 }
 
 .zoom:hover {
@@ -175,12 +177,24 @@ i {
   }
 
   .main {
-    margin-left: 35%;
+    margin-left: 38%;
   }
 
   .text-banner {
     top: 10px;
     width: 88%;
+  }
+
+  .zoom {
+    margin-right: 0px;
+    margin-bottom: 25px;
+  }
+
+  .sidenav h1 {
+    font-size: 1.4rem;
+  }
+  .sidenav p {
+    font-size: .9rem;
   }
 }
 
