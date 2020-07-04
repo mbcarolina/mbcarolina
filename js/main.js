@@ -1,8 +1,6 @@
 $(document).ready(function () {
     $.getJSON("data.json", function (json) {
-        console.log(json.sections);
         for (var i = 0; i < json.sections.length; i++) {
-           // $('#projects').append(banner(json.sections[i].name, json.sections[i].banners));
            $('#projects').append(
                 '<div class="row mb-4 mt-4">' +
                     '<div class="col-sm-2">' +
@@ -12,15 +10,11 @@ $(document).ready(function () {
                 '<div id="'+i+'" class="row justify-content-center">'
            );
            for (var y = 0; y < json.sections[i].banners.length; y++){
-                $('#'+i).append(
-                  
+                $('#' + i).append(
                         '<div class="col-sm-3 zoom">' +
-                        '<img src="' + json.sections[i].banners[y].path + '" class="img-fluid" alt="...">' +
-                        '<p class="text-indication"><i class="fas fa-info"></i></p>' +
-                        '<p class="text-banner">' + json.sections[i].banners[y].des + '</p></div>' 
+                        '<img src="' + json.sections[i].banners[y].path + '" class="img-fluid" alt="...">'
                 );
            }
-
            $('#projects').append(  '</div>');
         }
     });
