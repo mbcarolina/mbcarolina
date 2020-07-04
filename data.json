@@ -1,36 +1,50 @@
 {
     "sections": [
         {
-            "name": "Moda", 
+            "name": "Bustos", 
             "banners": [
                 {
-                    "path": "assets/1.jpeg",
-                    "des": "foto 1"
+                    "path": "assets/16-.jpg",
+                    "des": ""
                 },
                 {
-                    "path": "assets/2.jpeg",
-                    "des": "foto 2"
+                    "path": "assets/19.jpg",
+                    "des": ""
                 },
                 {
-                    "path": "assets/2.jpeg",
-                    "des": "foto 2"
-                }
+                    "path": "assets/18.jpg",
+                    "des": ""
+                },
+                
+                {
+                    "path": "assets/5.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/4.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/6.jpg",
+                    "des": ""
+                },
+                
             ]
         },
         {
-            "name": "Moda 2", 
+            "name": "Flatlay", 
             "banners": [
                 {
-                    "path": "assets/3.jpeg",
-                    "des": "foto 3"
+                    "path": "assets/CDE_0548.jpg",
+                    "des": ""
                 },
                 {
-                    "path": "assets/4.jpeg",
-                    "des": "foto 4"
+                    "path": "assets/CDE_0561_site.jpg",
+                    "des": ""
                 },
                 {
-                    "path": "assets/4.jpeg",
-                    "des": "foto 4"
+                    "path": "assets/CDE_0553.jpg",
+                    "des": ""
                 }
             ]
         }
