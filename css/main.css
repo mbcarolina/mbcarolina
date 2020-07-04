@@ -183,3 +183,8 @@ i {
     width: 88%;
   }
 }
+
+.footer {
+  margin-top: 40px;
+  font-size: 12px;
+}
