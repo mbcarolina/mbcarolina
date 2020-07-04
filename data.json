@@ -4,15 +4,15 @@
             "name": "Moda", 
             "banners": [
                 {
-                    "path": "assets/16.jpeg",
+                    "path": "assets/16.jpg",
                     "des": ""
                 },
                 {
-                    "path": "assets/19.jpeg",
+                    "path": "assets/19.jpg",
                     "des": ""
                 },
                 {
-                    "path": "assets/18.jpeg",
+                    "path": "assets/18.jpg",
                     "des": ""
                 }
             ]
