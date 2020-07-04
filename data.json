@@ -29,6 +29,47 @@
                     "des": ""
                 },
                 
+                  {
+                    "path": "assets/41.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/40.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/42.jpg",
+                    "des": ""
+                },
+                
+                    {
+                    "path": "assets/11.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/12.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/13-.jpg",
+                    "des": ""
+                },
+                
+                        {
+                    "path": "assets/37.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/39.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/40.jpg",
+                    "des": ""
+                },
+                
+                
+                
             ]
         },
         {
@@ -45,7 +86,16 @@
                 {
                     "path": "assets/CDE_0553.jpg",
                     "des": ""
-                }
+                },
+                
+                 {
+                    "path": "assets/17-.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/24-.jpg",
+                    "des": ""
+                },
             ]
         }
     ]
