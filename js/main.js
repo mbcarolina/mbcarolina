@@ -1,21 +1,3 @@
-var banner = (name, banners) => {
-    return '<div class="row mb-4">' +
-        '<div class="col-sm-12">' +
-        '<h1>' + name + '</h1>' +
-        '</div>' +
-        '</div>' +
-
-        '<div class="row">' +
-        banners.map(banner => (
-            '<div class="col-sm-3 zoom">' +
-            '<img src="' + banner.path + '" class="img-fluid" alt="...">' +
-            '<p class="text-indication"><i class="fas fa-info"></i></p>' +
-            '<p class="text-banner">' + banner.des + '</p></div>'
-        ));
-        '</div>'
-
-}
-
 $(document).ready(function () {
     $.getJSON("data.json", function (json) {
         console.log(json.sections);
@@ -41,7 +23,5 @@ $(document).ready(function () {
 
            $('#projects').append(  '</div>');
         }
-
-
     });
 });

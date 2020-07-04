@@ -1,12 +1,14 @@
-body {
-  /*   background-color: #eab6a2; */
-  /* color: #eab6a2; */
-}
-
 .w-80 {
   width: 80%;
 }
 
+.w-max-80 {
+  max-width: 80%;
+}
+
+.sidenav h5, .sidenav p {
+  font-size: 1rem;
+}
 .sidenav {
   height: 100%;
   width: 20%;
@@ -16,7 +18,6 @@ body {
   left: 0;
   overflow-x: hidden;
   overflow-y: hidden;
-/*   padding-left: 10px; */
   background-color: #ebb48e;
 }
 
@@ -28,6 +29,10 @@ body {
 
 .sidenav p {
   overflow-wrap: break-word;
+}
+
+.sidenav h1 {
+  font-size: 30px;
 }
 
 .shadow {
@@ -85,6 +90,7 @@ i {
   transition: 1s;
   background-color: #ebb48e;
   margin-right: 7px;
+  margin-bottom: 10px;
 }
 
 .zoom:hover {
