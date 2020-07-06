@@ -12,7 +12,7 @@ $(document).ready(function () {
            for (var y = 0; y < json.sections[i].banners.length; y++){
                 $('#' + i).append(
                         '<div class="col-sm-3 zoom">' +
-                        '<img src="' + json.sections[i].banners[y].path + '" class="img-fluid" alt="...">'
+                        '<embed src="' + json.sections[i].banners[y].path + '" class="img-fluid" alt="..."></embed>'
                 );
            }
            $('#projects').append(  '</div>');
