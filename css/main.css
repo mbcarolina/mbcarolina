@@ -61,6 +61,9 @@
   text-align: center;
 }
 
+.about p {
+  text-align: justify;
+}
 
 a,
 a:hover {
@@ -193,6 +196,7 @@ i {
   .sidenav h1 {
     font-size: 1.4rem;
   }
+
   .sidenav p {
     font-size: .9rem;
   }
