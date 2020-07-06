@@ -61,10 +61,6 @@
   text-align: center;
 }
 
-.about p {
-  text-align: justify;
-}
-
 a,
 a:hover {
   color: #f8f9fa;
@@ -205,4 +201,8 @@ i {
 .footer {
   margin-top: 40px;
   font-size: 12px;
+}
+
+.main #about p {
+  text-align: justify;
 }
