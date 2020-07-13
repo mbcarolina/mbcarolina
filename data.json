@@ -1,7 +1,7 @@
 {
     "sections": [
         {
-            "name": "Busto", 
+            "name": "Busto",
             "banners": [
                 {
                     "path": "assets/16-.jpg",
@@ -15,7 +15,6 @@
                     "path": "assets/18.jpg",
                     "des": ""
                 },
-                
                 {
                     "path": "assets/5.jpg",
                     "des": ""
@@ -28,8 +27,7 @@
                     "path": "assets/6.jpg",
                     "des": ""
                 },
-                
-                  {
+                {
                     "path": "assets/41.jpg",
                     "des": ""
                 },
@@ -41,8 +39,7 @@
                     "path": "assets/42.jpg",
                     "des": ""
                 },
-                
-                    {
+                {
                     "path": "assets/11.jpg",
                     "des": ""
                 },
@@ -54,8 +51,7 @@
                     "path": "assets/13-.jpg",
                     "des": ""
                 },
-                
-                        {
+                {
                     "path": "assets/37.jpg",
                     "des": ""
                 },
@@ -67,7 +63,6 @@
                     "path": "assets/38.jpg",
                     "des": ""
                 },
-                
                 {
                     "path": "assets/1-.jpg",
                     "des": ""
@@ -80,8 +75,7 @@
                     "path": "assets/2.jpg",
                     "des": ""
                 },
-                
-                     {
+                {
                     "path": "assets/20.jpg",
                     "des": ""
                 },
@@ -93,7 +87,7 @@
                     "path": "assets/22.jpg",
                     "des": ""
                 },
-                          {
+                {
                     "path": "assets/27.jpg",
                     "des": ""
                 },
@@ -105,8 +99,7 @@
                     "path": "assets/28.jpg",
                     "des": ""
                 },
-                
-                               {
+                {
                     "path": "assets/25.jpg",
                     "des": ""
                 },
@@ -118,8 +111,7 @@
                     "path": "assets/26.jpg",
                     "des": ""
                 },
-                
-                                   {
+                {
                     "path": "assets/32.jpg",
                     "des": ""
                 },
@@ -131,8 +123,7 @@
                     "path": "assets/33.jpg",
                     "des": ""
                 },
-                
-                                          {
+                {
                     "path": "assets/35.jpg",
                     "des": ""
                 },
@@ -144,8 +135,7 @@
                     "path": "assets/36.jpg",
                     "des": ""
                 },
-                
-                                             {
+                {
                     "path": "assets/9.jpg",
                     "des": ""
                 },
@@ -157,8 +147,7 @@
                     "path": "assets/48.jpg",
                     "des": ""
                 },
-                
-                  {
+                {
                     "path": "assets/43.jpg",
                     "des": ""
                 },
@@ -170,12 +159,10 @@
                     "path": "assets/45.jpg",
                     "des": ""
                 }
-                
-                
             ]
         },
         {
-            "name": "Flatlay", 
+            "name": "Flatlay",
             "banners": [
                 {
                     "path": "assets/CDE_0561_site.jpg",
@@ -189,8 +176,7 @@
                     "path": "assets/47.jpg",
                     "des": ""
                 },
-                
-                 {
+                {
                     "path": "assets/17-.jpg",
                     "des": ""
                 },
@@ -198,14 +184,14 @@
                     "path": "assets/24-.jpg",
                     "des": ""
                 },
-                
-                 {
+                {
                     "path": "assets/23.jpg",
                     "des": ""
-                },
-                
-                [
-            "name": "Editorial", 
+                }
+            ]
+        },
+        {
+            "name": "Editorial",
             "banners": [
                 {
                     "path": "assets/50.jpg",
@@ -219,8 +205,7 @@
                     "path": "assets/51.jpg",
                     "des": ""
                 },
-                
-                 {
+                {
                     "path": "assets/49.jpg",
                     "des": ""
                 },
@@ -232,8 +217,7 @@
                     "path": "assets/57.jpg",
                     "des": ""
                 },
-                
-                       {
+                {
                     "path": "assets/53.jpg",
                     "des": ""
                 },
@@ -245,7 +229,6 @@
                     "path": "assets/54.jpg",
                     "des": ""
                 }
-                
             ]
         }
     ]
