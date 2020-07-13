@@ -146,15 +146,28 @@
                 },
                 
                                              {
-                    "path": "assets/7.jpg",
-                    "des": ""
-                },
-                {
                     "path": "assets/9.jpg",
                     "des": ""
                 },
                 {
-                    "path": "assets/29.jpg",
+                    "path": "assets/7.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/48.jpg",
+                    "des": ""
+                },
+                
+                  {
+                    "path": "assets/43.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/44.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/45.jpg",
                     "des": ""
                 }
                 
@@ -165,15 +178,15 @@
             "name": "Flatlay", 
             "banners": [
                 {
-                    "path": "assets/CDE_0548.jpg",
-                    "des": ""
-                },
-                {
                     "path": "assets/CDE_0561_site.jpg",
                     "des": ""
                 },
                 {
-                    "path": "assets/CDE_0553.jpg",
+                    "path": "assets/46.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/47.jpg",
                     "des": ""
                 },
                 
@@ -188,6 +201,48 @@
                 
                  {
                     "path": "assets/23.jpg",
+                    "des": ""
+                },
+                
+                {
+            "name": "Editorial", 
+            "banners": [
+                {
+                    "path": "assets/50.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/52.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/51.jpg",
+                    "des": ""
+                },
+                
+                 {
+                    "path": "assets/49.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/56.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/57.jpg",
+                    "des": ""
+                },
+                
+                       {
+                    "path": "assets/53.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/55.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/54.jpg",
                     "des": ""
                 }
                 
