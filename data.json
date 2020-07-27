@@ -15,6 +15,33 @@
                     "path": "assets/18.jpg",
                     "des": ""
                 },
+                
+                     {
+                    "path": "assets/17-.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/24-.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/23.jpg",
+                    "des": ""
+                },
+                
+                {
+                    "path": "assets/64.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/65.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/66.jpg",
+                    "des": ""
+                },
+                
                 {
                     "path": "assets/5.jpg",
                     "des": ""
@@ -188,32 +215,7 @@
                 {
                     "path": "assets/47.jpg",
                     "des": ""
-                },
-                {
-                    "path": "assets/17-.jpg",
-                    "des": ""
-                },
-                {
-                    "path": "assets/24-.jpg",
-                    "des": ""
-                },
-                {
-                    "path": "assets/23.jpg",
-                    "des": ""
-                },
-                
-                {
-                    "path": "assets/64.jpg",
-                    "des": ""
-                },
-                {
-                    "path": "assets/65.jpg",
-                    "des": ""
-                },
-                {
-                    "path": "assets/66.jpg",
-                    "des": ""
-                }
+                }           
             ]
         },
         {
