@@ -164,7 +164,7 @@
                     "des": ""
                 },
                 {
-                    "path": "assets/43.jpg",
+                    "path": "assets/70.jpg",
                     "des": ""
                 },
                 {
@@ -172,9 +172,22 @@
                     "des": ""
                 },
                 {
-                    "path": "assets/48.jpg",
+                    "path": "assets/71.jpg",
                     "des": ""
-                }          
+                },         
+                
+                   {
+                    "path": "assets/73.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/72.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/74.jpg",
+                    "des": ""
+                }
             ]
         },
         {
@@ -216,6 +229,19 @@
                 },
                 {
                     "path": "assets/66.jpg",
+                    "des": ""
+                },
+                
+                  {
+                    "path": "assets/75.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/77.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/76.jpg",
                     "des": ""
                 }
             ]
