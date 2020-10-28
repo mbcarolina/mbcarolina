@@ -101,18 +101,7 @@
                     "path": "assets/88.jpg",
                     "des": ""
                 },
-                {
-                    "path": "assets/27.jpg",
-                    "des": ""
-                },
-                {
-                    "path": "assets/29.jpg",
-                    "des": ""
-                },
-                {
-                    "path": "assets/28.jpg",
-                    "des": ""
-                },
+              
                 {
                     "path": "assets/25.jpg",
                     "des": ""
@@ -154,12 +143,14 @@
                     "path": "assets/92.jpg",
                     "des": ""
                 },
-                {
-                    "path": "assets/94.jpg",
-                    "des": ""
-                },
+                
                 {
                     "path": "assets/96.jpg",
+                    "des": ""
+                },
+                
+                {
+                    "path": "assets/94.jpg",
                     "des": ""
                 } 
             ]
@@ -175,8 +166,9 @@
                     "path": "assets/46.jpg",
                     "des": ""
                 },
+                
                 {
-                    "path": "assets/47.jpg",
+                    "path": "assets/CDE_5785.jpg",
                     "des": ""
                 },
                 
@@ -207,7 +199,7 @@
                 },
                 
                   {
-                    "path": "assets/75.jpg",
+                    "path": "assets/CDE_6324.jpg",
                     "des": ""
                 },
                 {
@@ -239,6 +231,20 @@
            
                 {
                     "path": "assets/93.jpg",
+                    "des": ""
+                }
+                
+                 {
+                    "path": "assets/CDE_5765.jpg",
+                    "des": ""
+                },
+                
+                  {
+                    "path": "assets/CDE_5827-copy.jpg",
+                    "des": ""
+                },
+                {
+                    "path": "assets/CDE_6320.jpg",
                     "des": ""
                 }
             ]
